@@ -7,3 +7,4 @@
 * [ಮುಂಭಾಗದ ಕೋಡ್](https://github.com/xxai-art/web)
 * [ಒಟ್ಟಾರೆಯಾಗಿ ಸೈಟ್‌ಗಾಗಿ ಭಾಷಾ ಪ್ಯಾಕ್‌ಗಳು](https://github.com/xxai-art/web/tree/main/i18n)
 * [ಲಾಗಿನ್ ಮಾಡ್ಯೂಲ್‌ಗಳಿಗಾಗಿ ಭಾಷಾ ಪ್ಯಾಕ್‌ಗಳು](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ವೆಬ್‌ಸೈಟ್ ಬಹುಭಾಷಾ ದಾಖಲೆ](https://github.com/xxai-doc)

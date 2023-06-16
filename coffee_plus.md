@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ಕಾಫಿಸ್ಕ್ರಿಪ್ಟ್ ಸಿಂಟ್ಯಾಕ್ಸ್ ಆಧಾರದ ಮೇಲೆ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸೇರಿಸಿ, [ಕಾಫಿ_ಪ್ಲಸ್ ಅನ್ನು](./coffee_plus.md) ನೋಡಿ.
 
-* ವೇರಿಯಬಲ್ ಅನ್ನು ಘೋಷಿಸಿ
+## ವೇರಿಯಬಲ್ ಅನ್ನು ಘೋಷಿಸಿ
 
 ```
 + var1, var2
 ```
 
-* ಘೋಷಣೆ ಲೇಬಲ್
+## ಘೋಷಣೆ ಲೇಬಲ್
 
 `:$` ಎಂಬುದು [ಸ್ವೆಲ್ಟ್‌ನೊಂದಿಗೆ](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ಬಳಸಲು ಆಗಿದೆ.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ತ್ವರಿತ ಆಮದು
+## ತ್ವರಿತ ಆಮದು
 
 ```
 > zx/globals:
